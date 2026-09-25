@@ -44,3 +44,13 @@ npm run build     # production-сборка в dist/
 | M           | звук вкл/выкл     |
 | Enter/Space | старт после конца |
 | Esc         | закрыть OPTIONS   |
+
+---
+
+## 📱 Screenshots
+
+| Home Screen | Character Detail | Search Screen |
+|-------------|------------------|----------------|
+| ![Home](screenshots/photo_2026-09-26_01-32-14.jpg) | ![Character](screenshots/character_screen.png) | ![Options](screenshots/photo_2026-09-26_01-32-16.jpg) |
+
+---
