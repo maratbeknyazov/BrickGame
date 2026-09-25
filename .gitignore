@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+.freebuff
+*.local
+.DS_Store
+vite-dev.log
